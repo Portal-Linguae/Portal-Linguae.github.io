@@ -22,7 +22,13 @@
     .header .header-bottom .menu ul li a {
         margin-right: 20px;
         padding-left: 20px;
-    }    
+    }
+    .about_area .item img {
+        width: 100%;
+    }
+    .about_area .item .text {
+        max-width: 100%!important;
+    }
     br {
         display: none;
     }
@@ -35,7 +41,7 @@
     }
     .header .header-bottom .menu {
         margin: 0px 0;
-    }    
+    }
     .main-logo {
         text-align: center;
     }
@@ -52,9 +58,19 @@
     br {
         display: none
     }
+    .block-wrapper {
+        margin-top: 30px;
+        padding: 0px 0;
+    }
     header.header .nav.navbar-nav>li {
         display: inline-block;
         position: relative;
+    }
+    .about_area .item img {
+        width: 100%;
+    }
+    .about_area .item .text {
+        width: 100%!important;
     }
     .main-logo {
         margin: 0;
