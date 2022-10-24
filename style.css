@@ -123,20 +123,6 @@
     background: #fff none repeat scroll 0 0;
 }
 
-
-/*
-.wrapper section>h2 {
-    color: #3c354e;
-    font-family: "Roboto", sans-serif;
-    font-size: 32px;
-    font-weight: 700;
-    margin: 115px auto 50px;
-    position: relative;
-    width: -moz-fit-content;
-    text-transform: uppercase;
-}
-*/
-
 .wrapper section>h2 {
     color: #3c354e;
     font-family: "Roboto", sans-serif;
