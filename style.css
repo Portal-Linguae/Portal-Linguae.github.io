@@ -304,6 +304,9 @@
     list-style: outside none none;
     padding-left: 20px;
     position: relative;
+    color: rgb(91, 91, 91);
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
 }
 
 .footer .footer-text.one ul li i {
@@ -315,9 +318,6 @@
 }
 
 .footer .footer-text.one ul li a {
-    color: rgb(91, 91, 91);
-    font-family: "Roboto", sans-serif;
-    font-size: 15px;
     font-weight: 400;
     text-decoration: none;
 }
